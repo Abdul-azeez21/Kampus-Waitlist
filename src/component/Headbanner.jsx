@@ -20,8 +20,8 @@ const Headbanner = () => {
               Work and earn freelancing as a student in Africa.
             </h1>
             <p className="xl:text-lg lg:text-lg md:text-lg text-sm font-normal py-2">
-              We are helping undergraduate on campus make money by teaching them
-              tech skills and connecting them to clients who need their
+              We are helping undergraduates on campus make money by teaching
+              them tech skills and connecting them to clients who need their
               services.
             </p>
             <div className="py-8">
