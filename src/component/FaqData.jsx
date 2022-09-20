@@ -5,7 +5,7 @@ const FaqData = [
       "Undergraduates who have digital/tech skills and are willing to make money and gain experience freelancing while in school.",
   },
   {
-    question: "Can undergrates learn digital/tech skills on the platform ?",
+    question: "Can undergraduates learn digital/tech skills on the platform ?",
     answer:
       "Our tutorial section where we teach these skills will not be available for now. It will be included later after the launch of our freelance section. So stay with us and look out for our updates 🚀.",
   },

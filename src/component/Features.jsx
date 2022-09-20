@@ -18,7 +18,7 @@ const Features = () => {
           initial={{ opacity: 0, translateY: 50 }}
           whileInView={{ opacity: 1, translateY: 0 }}
           transition={{ duration: 1, delay: 0 }}
-          viewport={{ once: false }}
+          viewport={{ once: true }}
         >
           <div className="rounded-full bg-purple-100 h-10 w-10 my-2 flex items-center justify-center">
             <div className="flex justify-center items-center">
@@ -35,7 +35,7 @@ const Features = () => {
           initial={{ opacity: 0, translateY: 50 }}
           whileInView={{ opacity: 1, translateY: 0 }}
           transition={{ duration: 1, delay: 0 }}
-          viewport={{ once: false }}
+          viewport={{ once: true }}
         >
           <div className="rounded-full bg-red-100 h-10 w-10 my-2 flex items-center justify-center">
             <div className="flex justify-center items-center">
@@ -52,7 +52,7 @@ const Features = () => {
           initial={{ opacity: 0, translateY: 50 }}
           whileInView={{ opacity: 1, translateY: 0 }}
           transition={{ duration: 1, delay: 0 }}
-          viewport={{ once: false }}
+          viewport={{ once: true }}
         >
           <div className="rounded-full bg-blue-100 h-10 w-10 my-2 flex items-center justify-center">
             <div className="flex justify-center items-center">
@@ -70,7 +70,7 @@ const Features = () => {
           initial={{ opacity: 0, translateY: 50 }}
           whileInView={{ opacity: 1, translateY: 0 }}
           transition={{ duration: 1, delay: 0 }}
-          viewport={{ once: false }}
+          viewport={{ once: true }}
         >
           <div className="rounded-full bg-green-100 h-10 w-10 my-2 flex items-center justify-center">
             <div className="flex justify-center items-center">
