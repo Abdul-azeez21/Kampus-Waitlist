@@ -20,12 +20,11 @@ const Headbanner = () => {
               Work and earn freelancing as a student in Africa.
             </h1>
             <p className="xl:text-lg lg:text-lg md:text-lg text-sm font-normal py-2">
-              We are helping undergraduates on campus make money by teaching
-              them tech skills and connecting them to clients who need their
-              services.
+              We are connecting undergraduate freelancers equipped with various
+              digital and tech skills with clients who need their services.
             </p>
             <div className="py-8">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSftUGw5H2vYPV4KZ3cpQI27czdh6zhophHzSdmgOrgJSosbGw/viewform">
+              <a href="https://forms.gle/KNKKRwXo8rexadu67">
                 <button className="cursor-pointer bg-purple-600 px-6 py-4 rounded-lg text-white hover:text-purple-600 lg:text-base text-sm font-semibold hover:bg-transparent hover:border-purple-600 hover:border">
                   Join Waitlist
                 </button>

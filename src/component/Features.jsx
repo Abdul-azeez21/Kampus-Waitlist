@@ -4,7 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 //icons
-import { MdSchool } from "react-icons/md";
+// import { MdSchool } from "react-icons/md";
 import { RiUserSettingsLine } from "react-icons/ri";
 import { HiBriefcase } from "react-icons/hi";
 import { HiOutlineBadgeCheck } from "react-icons/hi";
@@ -12,8 +12,8 @@ import { HiOutlineBadgeCheck } from "react-icons/hi";
 const Features = () => {
   return (
     <div className="p-5 bg-purple-200">
-      <div className="grid grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 md:grid-cols-2 gap-x-4 gap-y-4 p-4 lg:p-16">
-        <motion.div
+      <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-3 md:grid-cols-3 gap-x-4 gap-y-4 p-4 lg:p-16">
+        {/* <motion.div
           className="rounded-md bg-white py-3 px-3"
           initial={{ opacity: 0, translateY: 50 }}
           whileInView={{ opacity: 1, translateY: 0 }}
@@ -28,7 +28,7 @@ const Features = () => {
           <div className="lg:text-lg text-base font-medium text-gray-500">
             Register to learn tech skills in demand.
           </div>
-        </motion.div>
+        </motion.div> */}
         {/* .. */}
         <motion.div
           className="rounded-md bg-white py-3 px-3"
